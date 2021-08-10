@@ -30,7 +30,7 @@ Crie uma estrutura de diretório tal qual abaixo:
         +- Dockerfile
     +- docker-compose.yml
 ```  
-
+  
 Dentro do arquivo `flask_app.py` adicione:
 
 ```python

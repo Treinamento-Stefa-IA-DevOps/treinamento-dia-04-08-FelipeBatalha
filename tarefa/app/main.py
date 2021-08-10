@@ -1,4 +1,6 @@
 import pickle
+from sklearn.preprocessing import KNeighborsClassifier
+import uvicorn
 from fastapi import FastAPI
 
 app = FastAPI()
